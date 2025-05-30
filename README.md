@@ -2,7 +2,7 @@
 
 A comprehensive Power BI dashboard project designed to analyze sales, customer behavior, delivery performance, product ratings, payment methods, and regional insights using a retail dataset for **ShopNest**.
 
-### Dashboard Link : [https://drive.google.com/file/d/1DsKtOWheCl0uT3fwDACtsIPO3jGxlmdl/view?usp=sharing](https://drive.google.com/file/d/1N4Ttmpe8FUd2htyZxY7K1zw0b34NC3ZG/view?usp=sharing)
+### ![Dashboard Link](https://drive.google.com/file/d/1DsKtOWheCl0uT3fwDACtsIPO3jGxlmdl/view?usp=sharing](https://drive.google.com/file/d/1N4Ttmpe8FUd2htyZxY7K1zw0b34NC3ZG/view?usp=sharing)
 
 ---
 
@@ -212,7 +212,17 @@ The model follows a star schema with:
 - **Fact Tables:** Orders, Order Items, Payments
 - **Dimension Tables:** Customers, Products, Categories, Sellers, Reviews
 
----
+### Tables Joined on
+Orders_dataset[Customer_id] → Customers_dataset[Customer_id]
+Orders_dataset[Order_id] → Order_items_dataset[Order_id]
+Order_items_dataset[Product_id] → Products_dataset[Product_id]
+Order_items_dataset[Seller_id] → Sellers_dataset[Seller_id]
+Orders_dataset[Order_id] → Order_payments_dataset[Order_id]
+Orders_dataset[Order_id] → Order_reviews_dataset[Order_id]
+Products_dataset[Product_category_name] → Product_categories_dataset[Product_category_name]
+Customers_dataset[Customer_zip_code] → GeoLocation_dataset[Geolocation_zipcode]
+Sellers_dataset[Seller_zipcode_prefix] → GeoLocation_dataset[Geolocation_zipcode]
 
-## 📁 Project Structure
+
+
 
