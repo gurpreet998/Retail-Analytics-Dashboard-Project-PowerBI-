@@ -36,6 +36,7 @@ This project uses the following datasets:
 - Top Categories by total Price: Identify and visually represent the top 10 product categories by total sales.
 
 Vizualization Used:
+(https://github.com/gurpreet998/ShopNest/blob/main/Top%20Categories%20by%20Total%20Price.png)
 
  
 
@@ -110,7 +111,7 @@ Determine the top 10 highest rated product and the bottom 10 lowest rated produc
 Vizualization Used:  
 1.	Top 10 highest rated products:
 
-Visual: https://github.com/gurpreet998/ShopNest/blob/main/Top%20Categories%20by%20Total%20Price.png
+Visual: 
 
  
 
