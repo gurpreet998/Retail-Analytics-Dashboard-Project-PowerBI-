@@ -236,7 +236,30 @@ Overall, this dashboard acts as a powerful decision-support tool, helping stakeh
 
 ### Dashboard Snapshot 
 
-![Dashboard Snapshot](https://github.com/gurpreet998/ShopNest/blob/main/Images/ShopNest%20Dashboard%20Snapshot.png)
+![Dashboard Snapshot](https://github.com/gurpreet998/ShopNest/blob/main/Images/ShopNest%20Dashboard%20Snapshot.png) 
+
+
+### About Me
+
+🔍 Data Analyst | PowerBI Enthusiast | Driving Business Insights with Data | Open to New Opportunities
+
+Hi, I’m Gurpreet Singh — a results-driven Data Analyst currently working at Accenture, Gurugram. With a strong foundation in data visualization, statistical analysis, and business intelligence, I help organizations turn raw data into strategic insights that support better decision-making.
+
+Over the past few years, I’ve worked on cross-functional projects involving data wrangling, dashboard creation (using Power BI/Tableau), SQL querying, and predictive analytics. I take pride in not just analyzing numbers but telling the story behind the data — enabling teams to unlock growth opportunities, reduce costs, and improve performance.
+
+At Accenture, I’ve had the privilege of working with diverse global clients, where I’ve honed my ability to translate complex business challenges into actionable data solutions. Whether it’s streamlining reporting workflows or building scalable data models, I bring clarity and value at every step of the analytics journey.
+
+I’m now looking for a new challenge where I can apply my skills in a more dynamic or product-oriented environment, ideally within a forward-thinking company that values data as a key strategic asset.
+
+📩 Let’s connect if you’re hiring Data Analysts or just want to talk data, business, or technology.
+
+### LinkedIn URL : https://www.linkedin.com/in/gurpreetsingh1998
+
+### GitHub URL: https://github.com/gurpreet998/
+
+### Contact email: gs268197@gmail.com
+
+### Mobile No. 7018320090
 
 
 
