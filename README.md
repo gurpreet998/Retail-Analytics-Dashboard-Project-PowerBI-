@@ -39,7 +39,7 @@ Vizualization Used:
 
 
 
-![Top Categories Chart](https://github.com/gurpreet998/ShopNest/blob/main/Images/Images/Top%20Categories%20by%20Total%20Price.png)
+![Top Categories Chart](https://github.com/gurpreet998/ShopNest/blob/main/Images/Top%20Categories%20by%20Total%20Price.png)
 
 
  
