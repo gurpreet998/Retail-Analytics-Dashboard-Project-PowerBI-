@@ -1,6 +1,6 @@
-# Airlines-Dashboard
+# ShopNest Dashboard
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
+### Dashboard Link : [https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection](https://github.com/gurpreet998/ShopNest/blob/main/ShopNest_Store_PowerBI_Capstone.pbit)
 
 ## Problem Statement
 
