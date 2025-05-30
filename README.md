@@ -2,7 +2,7 @@
 
 A comprehensive Power BI dashboard project designed to analyze sales, customer behavior, delivery performance, product ratings, payment methods, and regional insights using a retail dataset for **ShopNest**.
 
-### ![Dashboard Link](https://drive.google.com/file/d/1DsKtOWheCl0uT3fwDACtsIPO3jGxlmdl/view?usp=sharing](https://drive.google.com/file/d/1N4Ttmpe8FUd2htyZxY7K1zw0b34NC3ZG/view?usp=sharing)
+### Dashboard Link https://drive.google.com/file/d/1DsKtOWheCl0uT3fwDACtsIPO3jGxlmdl/view?usp=sharing](https://drive.google.com/file/d/1N4Ttmpe8FUd2htyZxY7K1zw0b34NC3ZG/view?usp=sharing
 
 ---
 
@@ -223,6 +223,20 @@ Products_dataset[Product_category_name] → Product_categories_dataset[Product_c
 Customers_dataset[Customer_zip_code] → GeoLocation_dataset[Geolocation_zipcode]
 Sellers_dataset[Seller_zipcode_prefix] → GeoLocation_dataset[Geolocation_zipcode]
 
+### Conclusion
+
+Conclusion:
+The Power BI dashboard designed for ShopNest provides a comprehensive and interactive overview of key business metrics across multiple dimensions—product performance, customer behaviour, operational efficiency, and regional trends. Through visually compelling charts, maps, and drill-through features, the dashboard successfully uncovers actionable insights:
+•	The Top Categories and Product Rating analyses help highlight both best-performing and underperforming product segments.
+•	Delayed Orders and On-Time Comparisons offer clear visibility into fulfilment efficiency, enabling better logistics and delivery planning.
+•	Payment Method Analysis reveals customer preferences, guiding improvements in the checkout experience.
+•	State-Wise Sales and Seasonal Sales Patterns visualizations uncover geographical and temporal patterns critical for targeted marketing and inventory optimization.
+•	Finally, the Revenue Analysis shows a strong upward trend in yearly earnings, confirming the company’s growth trajectory and providing a solid base for strategic expansion.
+Overall, this dashboard acts as a powerful decision-support tool, helping stakeholders make data-driven decisions, monitor performance, and proactively identify opportunities for growth and improvement.
+
+### Dashboard 
+
+[Dashboard Snapshot]()
 
 
 
