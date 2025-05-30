@@ -110,7 +110,7 @@ Determine the top 10 highest rated product and the bottom 10 lowest rated produc
 Vizualization Used:  
 1.	Top 10 highest rated products:
 
-Visual:
+Visual: https://github.com/gurpreet998/ShopNest/blob/main/Top%20Categories%20by%20Total%20Price.png
 
  
 
