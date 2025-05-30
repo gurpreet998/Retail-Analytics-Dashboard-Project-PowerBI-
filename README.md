@@ -234,9 +234,9 @@ The Power BI dashboard designed for ShopNest provides a comprehensive and intera
 •	Finally, the Revenue Analysis shows a strong upward trend in yearly earnings, confirming the company’s growth trajectory and providing a solid base for strategic expansion.
 Overall, this dashboard acts as a powerful decision-support tool, helping stakeholders make data-driven decisions, monitor performance, and proactively identify opportunities for growth and improvement.
 
-### Dashboard 
+### Dashboard Snapshot 
 
-[Dashboard Snapshot]()
+![Dashboard Snapshot](https://github.com/gurpreet998/ShopNest/blob/main/ShopNest%20Dashboard%20Snapshot.png)
 
 
 
