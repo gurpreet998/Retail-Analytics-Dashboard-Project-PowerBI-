@@ -39,7 +39,7 @@ Vizualization Used:
 
 
 
-![Top Categories Chart](https://github.com/gurpreet998/ShopNest/blob/main/Top%20Categories%20by%20Total%20Price.png)
+![Top Categories Chart](https://github.com/gurpreet998/ShopNest/blob/main/Images/Images/Top%20Categories%20by%20Total%20Price.png)
 
 
  
@@ -63,7 +63,7 @@ Determine the number of delayed orders in each category, an order is considered 
 Vizualization Used:
  
 
-![Delayed Orders Chart](https://github.com/gurpreet998/ShopNest/blob/main/Delayed%20Order%20Analysis.png)
+![Delayed Orders Chart](https://github.com/gurpreet998/ShopNest/blob/main/Images/Delayed%20Order%20Analysis.png)
 
 
 
@@ -85,7 +85,7 @@ i. Create a dynamic visual that compares the number of delayed orders to the num
 Vizualization Used:
 
 
-![Monthly Comparison Chart](https://github.com/gurpreet998/ShopNest/blob/main/Monthly%20Comparison%20of%20delayed%20and%20on-time%20orders.png
+![Monthly Comparison Chart](https://github.com/gurpreet998/ShopNest/blob/main/Images/Monthly%20Comparison%20of%20delayed%20and%20on-time%20orders.png
 )
 
 
@@ -100,7 +100,7 @@ ii.
 ### Visual 
 
 
-![Drill through Chart](https://github.com/gurpreet998/ShopNest/blob/main/Drill%20Through%20Visual.png
+![Drill through Chart](https://github.com/gurpreet998/ShopNest/blob/main/Images/Drill%20Through%20Visual.png
 )
 
 
@@ -120,7 +120,7 @@ Analyze the most frequently used payment methods by customer using a visually ap
 Vizualization Used:
 
 
-![Payment Method Analysis Chart](https://github.com/gurpreet998/ShopNest/blob/main/Payment%20method%20Analysis.png)
+![Payment Method Analysis Chart](https://github.com/gurpreet998/ShopNest/blob/main/Images/Payment%20method%20Analysis.png)
  
 
 
@@ -141,7 +141,7 @@ Vizualization Used:
 Visual: 
 
 
-![product rating top 10 Chart](https://github.com/gurpreet998/ShopNest/blob/main/PRA%20-%20top.png)
+![product rating top 10 Chart](https://github.com/gurpreet998/ShopNest/blob/main/Images/PRA%20-%20top.png)
  
 
 Insights: The chart displays the top 10 highest-rated products, each receiving a perfect rating of 5.0, indicating maximum customer satisfaction. These consistently top-rated products highlight excellent performance in quality, functionality, and customer service. Their high ratings can serve as benchmarks for other products and are ideal candidates for promotion and upselling strategies. The fact that multiple products have perfect scores suggests effective product listing, good delivery experience, and alignment with customer expectations. Understanding what makes these products successful could help drive improvements in the broader catalog and refine vendor or seller performance benchmarks.
@@ -151,7 +151,7 @@ Insights: The chart displays the top 10 highest-rated products, each receiving a
 
 Visual:
 
-![Product rating bottom 10 chart](https://github.com/gurpreet998/ShopNest/blob/main/PRA-Bottom.png)
+![Product rating bottom 10 chart](https://github.com/gurpreet998/ShopNest/blob/main/Images/PRA-Bottom.png)
  
 
 Insights: The bottom 10 lowest-rated products all share a consistent rating of 1.0, indicating significant dissatisfaction among customers. These low scores may result from poor product quality, misleading descriptions, damaged goods, delayed shipping, or lack customer service. This clear underperformance flags them as high-risk items that could harm brand trust and loyalty if not addressed. Immediate investigation and corrective actions—such as reviewing seller practices, issuing refunds, improving logistics, or even removing certain listings—are essential. These insights also provide a roadmap for quality control and process optimization across product categories.
@@ -164,7 +164,7 @@ Identify and Visually represent states with high and low sales. Providing a clea
 Vizualization Used:
 
 
-![State-wise Sales Chart](https://github.com/gurpreet998/ShopNest/blob/main/StateWise%20Analysis.png)
+![State-wise Sales Chart](https://github.com/gurpreet998/ShopNest/blob/main/Images/StateWise%20Analysis.png)
  
 
 Insights: The map visual depicts state-level sales performance across various global locations, with a concentration in South America—particularly Brazil—indicating higher sales volumes. Each blue bubble represents a state, and the bubble size corresponds to total sales in that region. Denser and larger bubbles signify higher revenue-generating states, allowing easy identification of key markets. This geographic analysis helps pinpoint high-performing areas for reinforcement and low-performing ones for strategic improvement. The visual enables regional sales comparison at a glance, aiding in tailored marketing, logistics, and expansion strategies.
@@ -177,7 +177,7 @@ Insights: The map visual depicts state-level sales performance across various gl
 Vizualization Used: 
 
 
-![State-wise Sales Chart](https://github.com/gurpreet998/ShopNest/blob/main/Seasonal%20Analysis.png)
+![State-wise Sales Chart](https://github.com/gurpreet998/ShopNest/blob/main/Images/Seasonal%20Analysis.png)
 
  
 
@@ -191,7 +191,7 @@ Determine the Total revenue generated by ShopNest store and analyze how it chang
 Vizualization used: 
  
 
-![Revenue Chart](https://github.com/gurpreet998/ShopNest/blob/main/Revenue%20analysis.png)
+![Revenue Chart](https://github.com/gurpreet998/ShopNest/blob/main/Images/Revenue%20analysis.png)
 
 
 Insights: The line chart illustrates the total annual revenue for ShopNest from 2016 to 2018. Starting from nearly zero in 2016, the revenue sharply increases to approximately 7 million in 2017, indicating a major growth phase. The upward trend continues in 2018, reaching over 8 million, although the growth rate is slightly slower than the previous year. This steady increase reflects successful business scaling, customer acquisition, and product performance. The visual highlights key revenue milestones and provides a clear picture of the company’s financial trajectory, which can inform budgeting, forecasting, and strategic planning.
@@ -236,7 +236,7 @@ Overall, this dashboard acts as a powerful decision-support tool, helping stakeh
 
 ### Dashboard Snapshot 
 
-![Dashboard Snapshot](https://github.com/gurpreet998/ShopNest/blob/main/ShopNest%20Dashboard%20Snapshot.png)
+![Dashboard Snapshot](https://github.com/gurpreet998/ShopNest/blob/main/Images/ShopNest%20Dashboard%20Snapshot.png)
 
 
 
