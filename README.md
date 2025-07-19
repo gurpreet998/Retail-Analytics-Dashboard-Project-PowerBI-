@@ -1,6 +1,6 @@
-# 🛍️ ShopNest Retail Analytics Dashboard - Power BI Project
+# 🛍️ Retail Analytics Dashboard - Power BI Project
 
-A comprehensive Power BI dashboard project designed to analyze sales, customer behavior, delivery performance, product ratings, payment methods, and regional insights using a retail dataset for **ShopNest**.
+A comprehensive Power BI dashboard project designed to analyze sales, customer behavior, delivery performance, product ratings, payment methods, and regional insights using a retail dataset.
 
 ### Dashboard Link https://drive.google.com/file/d/1DsKtOWheCl0uT3fwDACtsIPO3jGxlmdl/view?usp=sharing](https://drive.google.com/file/d/1N4Ttmpe8FUd2htyZxY7K1zw0b34NC3ZG/view?usp=sharing
 
@@ -47,7 +47,7 @@ Vizualization Used:
 
 
 
-Insights: This visual highlights the top 10 product categories by total sales value on the ShopNest platform. The Total Sales measure was calculated using the sum of product prices from the order items dataset. Categories such as health_beauty, watches_gifts, and bed_bath_table emerged as the top-performing segments. This analysis helps identify high-revenue categories, enabling strategic focus on best-selling product lines for inventory planning, marketing campaigns, and revenue optimization.
+Insights: This visual highlights the top 10 product categories by total sales value on the Retail platform. The Total Sales measure was calculated using the sum of product prices from the order items dataset. Categories such as health_beauty, watches_gifts, and bed_bath_table emerged as the top-performing segments. This analysis helps identify high-revenue categories, enabling strategic focus on best-selling product lines for inventory planning, marketing campaigns, and revenue optimization.
 
 
 
@@ -68,7 +68,7 @@ Vizualization Used:
 
 
 
-Insights: This visual illustrates the number of delayed orders across product categories, where a delivery is considered delayed if the actual delivery date exceeded the estimated delivery date. The column chart shows that bed_bath_table and health_beauty have the highest number of delays, with 770 and 717 orders respectively. This insight helps identify categories with potential logistics or fulfillment challenges, enabling ShopNest to improve delivery accuracy, enhance customer satisfaction, and refine operational efficiency across critical product segments.
+Insights: This visual illustrates the number of delayed orders across product categories, where a delivery is considered delayed if the actual delivery date exceeded the estimated delivery date. The column chart shows that bed_bath_table and health_beauty have the highest number of delays, with 770 and 717 orders respectively. This insight helps identify categories with potential logistics or fulfillment challenges, enabling retail to improve delivery accuracy, enhance customer satisfaction, and refine operational efficiency across critical product segments.
 
 
 
@@ -92,7 +92,7 @@ Vizualization Used:
 
  
 
-Insights: This stacked bar chart presents a monthly breakdown of delayed vs. on-time orders across the year. Each bar compares the proportion of orders delivered later than expected versus those delivered on or before the estimated date. February , March and November show the highest delay ratios, indicating potential seasonal or operational challenges. This visual helps ShopNest identify patterns in delivery performance and highlights opportunities to optimize fulfilment. Drill-through features offer deeper insights at the individual order level for root cause analysis.
+Insights: This stacked bar chart presents a monthly breakdown of delayed vs. on-time orders across the year. Each bar compares the proportion of orders delivered later than expected versus those delivered on or before the estimated date. February , March and November show the highest delay ratios, indicating potential seasonal or operational challenges. This visual helps retail identify patterns in delivery performance and highlights opportunities to optimize fulfilment. Drill-through features offer deeper insights at the individual order level for root cause analysis.
 
 ii.
 ## Drill-through Feature
@@ -109,7 +109,7 @@ ii.
 
 
 Insights: Drill-Through: Daily Analysis of Delayed and On-Time Orders
-This drill-through report provides a granular day-wise breakdown of delayed and total orders across months and years. Users can explore specific time periods, for instance August 2017, to assess how delivery performance fluctuated daily. This detailed view empowers ShopNest to pinpoint operational bottlenecks, identify high-delay days, and take corrective actions. By offering interactive drill-down capabilities, it enhances the depth of analysis beyond monthly aggregates and supports more targeted supply chain improvements.
+This drill-through report provides a granular day-wise breakdown of delayed and total orders across months and years. Users can explore specific time periods, for instance August 2017, to assess how delivery performance fluctuated daily. This detailed view empowers retail to pinpoint operational bottlenecks, identify high-delay days, and take corrective actions. By offering interactive drill-down capabilities, it enhances the depth of analysis beyond monthly aggregates and supports more targeted supply chain improvements.
 
 ---
 
@@ -124,7 +124,7 @@ Vizualization Used:
  
 
 
-Insights: This donut chart visualizes the distribution of payment methods used by customers on ShopNest. The analysis reveals that credit cards dominate transactions, accounting for approximately 74% of all payments. This is followed by boleto (19%), a popular Brazilian payment slip method. Vouchers and debit cards form a smaller share, contributing around 5.5% and 1.5%, respectively. Understanding these preferences helps ShopNest align marketing strategies, streamline checkout processes, and enhance customer convenience by focusing on the most utilized and trusted payment options.
+Insights: This donut chart visualizes the distribution of payment methods used by customers. The analysis reveals that credit cards dominate transactions, accounting for approximately 74% of all payments. This is followed by boleto (19%), a popular Brazilian payment slip method. Vouchers and debit cards form a smaller share, contributing around 5.5% and 1.5%, respectively. Understanding these preferences helps align marketing strategies, streamline checkout processes, and enhance customer convenience by focusing on the most utilized and trusted payment options.
 
 
 
@@ -186,7 +186,7 @@ Insights: The line chart visualizes quarterly sales trends from 2016 to 2018, hi
 ---
 
 ### 8. 💰 Revenue Trend Analysis
-Determine the Total revenue generated by ShopNest store and analyze how it changes over time (yearly). Represent this information through suitable visuals to highlight trends and patterns.
+Determine the Total revenue generated by retail store and analyze how it changes over time (yearly). Represent this information through suitable visuals to highlight trends and patterns.
 
 Vizualization used: 
  
@@ -194,7 +194,7 @@ Vizualization used:
 ![Revenue Chart](https://github.com/gurpreet998/ShopNest/blob/main/Images/Revenue%20analysis.png)
 
 
-Insights: The line chart illustrates the total annual revenue for ShopNest from 2016 to 2018. Starting from nearly zero in 2016, the revenue sharply increases to approximately 7 million in 2017, indicating a major growth phase. The upward trend continues in 2018, reaching over 8 million, although the growth rate is slightly slower than the previous year. This steady increase reflects successful business scaling, customer acquisition, and product performance. The visual highlights key revenue milestones and provides a clear picture of the company’s financial trajectory, which can inform budgeting, forecasting, and strategic planning.
+Insights: The line chart illustrates the total annual revenue for retail from 2016 to 2018. Starting from nearly zero in 2016, the revenue sharply increases to approximately 7 million in 2017, indicating a major growth phase. The upward trend continues in 2018, reaching over 8 million, although the growth rate is slightly slower than the previous year. This steady increase reflects successful business scaling, customer acquisition, and product performance. The visual highlights key revenue milestones and provides a clear picture of the company’s financial trajectory, which can inform budgeting, forecasting, and strategic planning.
 
 
 
@@ -226,7 +226,7 @@ Sellers_dataset[Seller_zipcode_prefix] → GeoLocation_dataset[Geolocation_zipco
 ### Conclusion
 
 Conclusion:
-The Power BI dashboard designed for ShopNest provides a comprehensive and interactive overview of key business metrics across multiple dimensions—product performance, customer behaviour, operational efficiency, and regional trends. Through visually compelling charts, maps, and drill-through features, the dashboard successfully uncovers actionable insights:
+The Power BI dashboard designed for a retail store provides a comprehensive and interactive overview of key business metrics across multiple dimensions—product performance, customer behaviour, operational efficiency, and regional trends. Through visually compelling charts, maps, and drill-through features, the dashboard successfully uncovers actionable insights:
 •	The Top Categories and Product Rating analyses help highlight both best-performing and underperforming product segments.
 •	Delayed Orders and On-Time Comparisons offer clear visibility into fulfilment efficiency, enabling better logistics and delivery planning.
 •	Payment Method Analysis reveals customer preferences, guiding improvements in the checkout experience.
